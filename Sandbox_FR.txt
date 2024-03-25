@@ -1,0 +1,9 @@
+Sandbox_FR = {
+  Sandbox_LingeringReflexes = "Lingering Reflexes",
+
+  Sandbox_LingeringReflexes_Smart = "Pourcentage de zombies intelligents",
+  Sandbox_LingeringReflexes_Smart_tooltip = "Pourcentage de zombies intelligents présents dans le monde. Ces zombies peuvent ouvrir des portes.",
+
+  Sandbox_LingeringReflexes_Frequency = "Fréquence de mise à jour des zombies",
+  Sandbox_LingeringReflexes_Frequency_tooltip = "L'intervalle en millisecondes entre deux mises à jour. Un nombre plus élevé signifie moins d'utilisation CPU, un nombre plus bas signifie moins de problèmes de précision. Le réglage par défaut est recommandé.",
+}
